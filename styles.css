@@ -105,7 +105,7 @@ body .demo-blog {
 }
 .demo-blog .mdl-card__media a,
 .demo-blog .mdl-card__title a {
-  color: inherit;
+  color: #c3badc;
 }
 .demo-blog .mdl-card__supporting-text {
   width: 100%;
@@ -207,7 +207,8 @@ body .demo-blog {
           order: -1;
 }
 .demo-blog .coffee-pic .mdl-card__media {
-  background-image: url('images/coffee.jpg');
+  /*background-image: url('images/design.jpg');*/
+  background-color: #c3badc;
 }
 .demo-blog .something-else .mdl-card__media {
   display: -webkit-box;
@@ -295,7 +296,7 @@ body .demo-blog {
   margin-left: 16px;
 }
 .demo-blog .mdl-card > a {
-  color: inherit;
+  color: #c3badc;
   text-decoration: none;
   font-weight: inherit;
 }
@@ -566,5 +567,10 @@ body .demo-blog {
 }
 
 .mdl-color--accent {
-    background-color: #b3e5cc !important;
+    background-color: #c3badc !important;
+}
+
+a {
+ color: #c3badc;
+
 }
