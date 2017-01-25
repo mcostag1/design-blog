@@ -243,8 +243,8 @@ body .demo-blog {
   border-top-right-radius: 2px;
 }
 .demo-blog .something-else .mdl-card__media img {
-  width: 64px;
-  height: 64px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 10px;
 }
 .demo-blog .something-else .mdl-card__supporting-text {
@@ -563,4 +563,8 @@ body .demo-blog {
           align-items: center;
   background-color: white;
   box-sizing: border-box;
+}
+
+.mdl-color--accent {
+    background-color: #b3e5cc !important;
 }
