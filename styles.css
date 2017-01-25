@@ -565,6 +565,6 @@ body .demo-blog {
   box-sizing: border-box;
 }
 
-/*.mdl-color--accent {
+.mdl-color--accent {
     background-color: #b3e5cc !important;
-}*/
+}
