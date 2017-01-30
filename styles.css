@@ -689,3 +689,32 @@ h5
   transform: rotate(90deg);
 
 }
+
+.sketch1-card-image.mdl-card {
+  width: 420px;
+  height: 420px;
+  background: url('images/models/sketch1.jpg') center / cover;
+  transform: rotate(90deg);
+
+}
+.sketch2-card-image.mdl-card {
+  width: 420px;
+  height: 420px;
+  background: url('images/models/sketch2.jpg') center / cover;
+  transform: rotate(90deg);
+
+}
+.sketch3-card-image.mdl-card {
+  width: 420px;
+  height: 420px;
+  background: url('images/models/sketch3.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+
+}
+.sketch4-card-image.mdl-card {
+  width: 420px;
+  height: 420px;
+  background: url('images/models/sketch4.jpg') center / cover;
+  transform: rotate(90deg);
+
+}
