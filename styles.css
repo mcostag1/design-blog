@@ -693,14 +693,14 @@ h5
 .sketch1-card-image.mdl-card {
   width: 420px;
   height: 420px;
-  background: url('images/models/sketch1.jpg') center / cover;
+  background: url('images/models/sketchh1.jpg') center / cover;
   transform: rotate(90deg);
 
 }
 .sketch2-card-image.mdl-card {
   width: 420px;
   height: 420px;
-  background: url('images/models/sketch2.jpg') center / cover;
+  background: url('images/models/sketchh2.jpg') center / cover;
   transform: rotate(90deg);
 
 }
@@ -714,7 +714,7 @@ h5
 .sketch4-card-image.mdl-card {
   width: 420px;
   height: 420px;
-  background: url('images/models/sketch4.jpg') center / cover;
+  background: url('images/models/sketchh4.jpg') center / cover;
   transform: rotate(90deg);
 
 }
