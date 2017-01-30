@@ -105,7 +105,7 @@ body .demo-blog {
 }
 .demo-blog .mdl-card__media a,
 .demo-blog .mdl-card__title a {
-  color: #c3badc;
+  color: white;
 }
 .demo-blog .mdl-card__supporting-text {
   width: 100%;
@@ -249,12 +249,13 @@ body .demo-blog {
   margin-bottom: 10px;
 }
 .demo-blog .something-else .mdl-card__supporting-text {
-  background-color: #F5F5F5;
+  background-color: #c3badc;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-.demo-blog .on-the-road-again .mdl-card__media {
-  background-image: url('images/road.jpg');
+.demo-blog .models-blog .mdl-card__media {
+  /*background-image: url('images/logo.png');*/
+  background-color: #c3badc;
 }
 .demo-blog .shopping .mdl-card__media {
   background-image: url('images/shopping.jpg');
@@ -321,7 +322,8 @@ body .demo-blog {
   background-color: transparent;
 }
 .demo-blog--blogpost .demo-blog__posts > .mdl-card .mdl-card__media {
-  background-image: url('images/road_big.jpg');
+  /*background-image: url('images/logo-sm.png');*/
+  background-color: #c3badc;
   height: 280px;
 }
 .demo-blog--blogpost .comments {
@@ -572,5 +574,89 @@ body .demo-blog {
 
 a {
  color: #c3badc;
+ font-weight: 200;
+}
 
+h5
+
+
+/*MODEL IMAGE CARDS*/
+
+.demo-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/purpletree.jpg') center / cover;
+}
+.demo-card-image > .mdl-card__actions {
+  /*height: 52px;
+  /*padding: 16px;*/*/
+  background: rgba(0, 0, 0, 0.2);
+}
+.demo-card-image__filename {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/*PURPLE TREE MODEL*/
+.tree1-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/tree1.jpg') center / cover;
+}
+.tree2-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/tree2.jpg') center / cover;
+}
+.tree3-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/tree3.jpg') center / cover;
+}
+
+/*AP BOX DESIGN*/
+.box1-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/box1.jpg') center / cover;
+}
+.box2-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/box2.jpg') center / cover;
+}
+
+/*AP LEGO MODEL*/
+.lego1-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/lego1.jpg') center / cover;
+}
+.lego2-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/lego2.jpg') center / cover;
+}
+.lego3-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/lego3.jpg') center / cover;
+}
+
+/*CRUM WAVE MODEL*/
+.wave1-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/wave1.jpg') center / cover;
+}
+.wave2-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/wave2.jpg') center / cover;
+}
+.wave3-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('images/models/wave3.jpg') center / cover;
 }
