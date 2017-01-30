@@ -583,8 +583,8 @@ h5
 /*MODEL IMAGE CARDS*/
 
 .demo-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/purpletree.jpg') center / cover;
 }
 .demo-card-image > .mdl-card__actions {
@@ -600,63 +600,92 @@ h5
 
 /*PURPLE TREE MODEL*/
 .tree1-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/tree1.jpg') center / cover;
+  padding-left: 25;
+  transform: rotate(90deg);
 }
 .tree2-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/tree2.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .tree3-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/tree3.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 
 /*AP BOX DESIGN*/
 .box1-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/box1.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .box2-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/box2.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 
 /*AP LEGO MODEL*/
 .lego1-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/lego1.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .lego2-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/lego2.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .lego3-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/lego3.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 
 /*CRUM WAVE MODEL*/
 .wave1-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/wave1.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .wave2-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/wave2.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
 .wave3-card-image.mdl-card {
-  width: 256px;
-  height: 256px;
+  width: 420px;
+  height: 420px;
   background: url('images/models/wave3.jpg') center / cover;
+  transform: rotate(90deg);
+
+}
+.wave4-card-image.mdl-card {
+  width: 420px;
+  height: 420px;
+  background: url('images/models/wave4.jpg') center / cover;
+  transform: rotate(90deg);
+
 }
