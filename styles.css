@@ -942,3 +942,46 @@ h5
   transform: rotate(90deg);
 
 }
+
+
+
+.final-idea1-card-image.mdl-card {
+  width: 100%;
+  height: 300px;
+  background: url('images/box-ideas/idea1.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+  /*padding-top: 10px;*/
+
+}
+.final-idea2-card-image.mdl-card {
+  width: 100%;
+  height: 300px;
+  background: url('images/box-ideas/idea2.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+
+}
+.final-idea3-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box-ideas/idea3.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+
+}
+.final-idea4-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box-ideas/idea4.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.final-idea5-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box-ideas/idea5.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.final-idea6-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box-ideas/idea6.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+}
