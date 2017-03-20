@@ -985,3 +985,17 @@ h5
   background: url('images/box-ideas/idea6.jpg') center / cover;
   /*transform: rotate(90deg);*/
 }
+
+
+.final-3Dbox1-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box1-3Dmodel/box1.jpg') center / cover;
+  transform: rotate(90deg);
+}
+.final-3Dbox2-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/box1-3Dmodel/box2.jpg') center / cover;
+  transform: rotate(90deg);
+}
