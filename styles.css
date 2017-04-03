@@ -989,13 +989,74 @@ h5
 
 .final-3Dbox1-card-image.mdl-card {
   width: 100%;
-  height: 400px;
+  height: 600px;
   background: url('images/box1-3Dmodel/box1.jpg') center / cover;
   transform: rotate(90deg);
 }
 .final-3Dbox2-card-image.mdl-card {
   width: 100%;
-  height: 400px;
+  height: 600px;
   background: url('images/box1-3Dmodel/box2.jpg') center / cover;
   transform: rotate(90deg);
+}
+
+.final-3Dbox1-card-image.mdl-card {
+  width: 100%;
+  height: 600px;
+  background: url('images/box1-3Dmodel/box1.jpg') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo1-card-image.mdl-card {
+  width: 100%;
+  height: 600px;
+  background: url('images/inspo1.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo2-card-image.mdl-card {
+  width: 100%;
+  height: 600px;
+  background: url('images/inspo2.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo3-card-image.mdl-card {
+  width: 100%;
+  height: 600px;
+  background: url('images/inspo3.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo4-card-image.mdl-card {
+  width: 100%;
+  height: 600px;
+  background: url('images/inspo4.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo5-card-image.mdl-card {
+  width: 100%;
+  height: 300px;
+  background: url('images/inspo5.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo6-card-image.mdl-card {
+  width: 100%;
+  height: 300px;
+  background: url('images/inspo6.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo7-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/inspo7.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo8-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/inspo8.png') center / cover;
+  /*transform: rotate(90deg);*/
+}
+.inspo9-card-image.mdl-card {
+  width: 100%;
+  height: 400px;
+  background: url('images/inspo9.png') center / cover;
+  /*transform: rotate(90deg);*/
 }
